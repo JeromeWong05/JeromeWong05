@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey everyone, my name is Jerome Wong👋
 
 <!--
 **JeromeWong05/JeromeWong05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a student at the University of British Columbia studying Electrical Engineering. 
+
