@@ -10,7 +10,7 @@ I am most interested in the field of embedded systems, FPGA and hardware designs
   </a>
   <a href="https://www.linkedin.com/in/jerome-wong-693b86b1/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="wonghokyiu@gmail.com" target="_blank"><img alt="Gmail+
+  <a href="mailto:wonghokyiu@gmail.com" target="_blank"><img alt="Gmail+
     +" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
