@@ -1,7 +1,5 @@
 <h1>Hey everyone, my name is Jerome Wong👋</h1> 
-
 I am a student at the University of British Columbia studying Electrical Engineering. 
-
 I am most interested in the field of embedded systems, FPGA and hardware designs! 😃
 
 <br>
